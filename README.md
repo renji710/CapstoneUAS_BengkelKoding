@@ -1,0 +1,7 @@
+# CAPSTONE PROJECT BENGKEL KODING DATA SCIENCE
+
+## Developer
+
+Raditya Abdul Afeef
+
+A11.2022.14203
